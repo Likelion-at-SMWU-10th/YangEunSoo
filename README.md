@@ -6,7 +6,7 @@
 
 | 강의 내용 | 캡쳐 | 
 |:------:|:------|
-|`css 추가`|<img src="https://user-images.githubusercontent.com/80334038/177121725-0ecd188e-55ae-4edd-aede-c7ccc40bd927.png" width="500" height="400"/> <img src="https://user-images.githubusercontent.com/80334038/177121974-293722df-9d29-4448-bd9b-03b43cad64d8.png" width="500" height="400"/>|
+|`css 추가`|<img src="https://user-images.githubusercontent.com/80334038/177121725-0ecd188e-55ae-4edd-aede-c7ccc40bd927.png" width="450" height="400"/> <img src="https://user-images.githubusercontent.com/80334038/177121974-293722df-9d29-4448-bd9b-03b43cad64d8.png" width="450" height="400"/>|
 |`프론트엔드 트랙 - React`|![스크린샷 2022-07-03 오전 3 38 09](https://user-images.githubusercontent.com/80334038/177012624-cf392965-27a0-4056-aa1c-2cb44a40ccf4.png)|
 |`프론트엔드 트랙 - Javascript`|![스크린샷 2022-06-19 오전 1 03 35](https://user-images.githubusercontent.com/80334038/174446915-08af7034-baf7-40c4-a244-086291cb1974.png)|
 |`일단 만드는 Javascript`| ![스크린샷 2022-05-22 오전 3 52 30](https://user-images.githubusercontent.com/80334038/169665469-9c2b4171-de3a-4719-bac6-df8959ed5dcd.png)|
